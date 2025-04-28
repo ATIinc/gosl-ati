@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"os/exec"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/ATIinc/gosl-ati/chk"
 )
 
 // RunCmd runs external command

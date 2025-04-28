@@ -7,10 +7,10 @@ package ode
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/num"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/io"
+	"github.com/ATIinc/gosl-ati/la"
+	"github.com/ATIinc/gosl-ati/num"
 )
 
 // BwEuler implements the (implicit) Backward Euler method

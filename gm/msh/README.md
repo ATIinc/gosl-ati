@@ -1,6 +1,6 @@
 # Gosl. gm/msh. Mesh generation and Delaunay triangulation
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/cpmech/gosl/gm/msh)](https://pkg.go.dev/github.com/cpmech/gosl/gm/msh)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/gm/msh)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/gm/msh)
 
 ## Definitions
 
@@ -140,4 +140,4 @@
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/gm/msh)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/gm/msh)

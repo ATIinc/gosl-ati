@@ -5,8 +5,8 @@
 package ode
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/la"
 )
 
 // rkmethod defines the required functions of Runge-Kutta method

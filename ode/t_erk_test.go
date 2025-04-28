@@ -7,10 +7,10 @@ package ode
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/fun"
+	"github.com/ATIinc/gosl-ati/io"
+	"github.com/ATIinc/gosl-ati/la"
 )
 
 func TestErk01(tst *testing.T) {

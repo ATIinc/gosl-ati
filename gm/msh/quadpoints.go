@@ -7,9 +7,9 @@ package msh
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/num"
-	"github.com/cpmech/gosl/utl"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/num"
+	"github.com/ATIinc/gosl-ati/utl"
 )
 
 // QuadPointsGaussLegendre generate quadrature points for Gauss-Legendre integration

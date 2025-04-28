@@ -1,6 +1,6 @@
 # Gosl. la/oblas. Wrapper to OpenBLAS
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/cpmech/gosl/la/oblas)](https://pkg.go.dev/github.com/cpmech/gosl/la/oblas)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/la/oblas)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/la/oblas)
 
 This subpackge implements a light wrapper to OpenBLAS. Therefore, its routines are a little more
 _lower level_ than the ones in the parent package `la`.
@@ -9,4 +9,4 @@ _lower level_ than the ones in the parent package `la`.
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/la/oblas)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/la/oblas)

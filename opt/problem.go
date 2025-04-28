@@ -5,8 +5,8 @@
 package opt
 
 import (
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/la"
+	"github.com/ATIinc/gosl-ati/fun"
+	"github.com/ATIinc/gosl-ati/la"
 )
 
 // Problem holds the functions defining an optimization problem

@@ -7,7 +7,7 @@ package la
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/ATIinc/gosl-ati/chk"
 )
 
 func TestSpSolver01(tst *testing.T) {

@@ -7,7 +7,7 @@ package ode
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/ATIinc/gosl-ati/chk"
 )
 
 func TestFwEuler01(tst *testing.T) {

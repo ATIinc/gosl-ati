@@ -7,9 +7,9 @@ package opt
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/io"
+	"github.com/ATIinc/gosl-ati/la"
 )
 
 func checkConjGrad(tst *testing.T, sol *ConjGrad, fmin, fref, tolf, tolx float64, xmin, xref []float64) {

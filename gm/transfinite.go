@@ -5,9 +5,9 @@
 package gm
 
 import (
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/la"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/fun"
+	"github.com/ATIinc/gosl-ati/la"
 )
 
 // Transfinite maps a reference square [-1,+1]×[-1,+1] into a curve-bounded quadrilateral

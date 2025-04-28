@@ -1,3 +1,3 @@
-module github.com/cpmech/gosl
+module github.com/ATIinc/gosl-ati
 
 go 1.17

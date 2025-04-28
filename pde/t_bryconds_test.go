@@ -8,11 +8,11 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/gm"
-	"github.com/cpmech/gosl/gm/msh"
-	"github.com/cpmech/gosl/io"
-	"github.com/cpmech/gosl/la"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/gm"
+	"github.com/ATIinc/gosl-ati/gm/msh"
+	"github.com/ATIinc/gosl-ati/io"
+	"github.com/ATIinc/gosl-ati/la"
 )
 
 func check3x3grid(tst *testing.T, e *BoundaryConds, checkNormals bool) {

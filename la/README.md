@@ -1,6 +1,6 @@
 # Gosl. la. Linear Algebra: vector, matrix, efficient sparse solvers, eigenvalues, decompositions, etc.
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/cpmech/gosl/la.svg)](https://pkg.go.dev/github.com/cpmech/gosl/la)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/la.svg)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/la)
 
 The `la` sub-package implements functions to perform linear algebra operations such as vector
 addition or matrix-vector multiplications. It also wraps some efficient sparse linear systems
@@ -10,7 +10,7 @@ solvers such as [Umfpack](http://faculty.cse.tamu.edu/davis/suitesparse.html) an
 Both [Umfpack](http://faculty.cse.tamu.edu/davis/suitesparse.html) and
 [MUMPS](http://mumps.enseeiht.fr) solvers are very efficient!
 
-Sometimes, we call the _lower level_ functions in [la/oblas](https://github.com/cpmech/gosl/tree/master/la/oblas)
+Sometimes, we call the _lower level_ functions in [la/oblas](https://github.com/ATIinc/gosl-ati/tree/master/la/oblas)
 to improve performance.
 
 ## Structures for sparse problems
@@ -120,4 +120,4 @@ would be constantly allocated and released.
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/la)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/la)

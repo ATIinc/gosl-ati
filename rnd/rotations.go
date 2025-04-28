@@ -8,7 +8,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/cpmech/gosl/utl"
+	"github.com/ATIinc/gosl-ati/utl"
 )
 
 // UnitVectors generates random unit vectors in 3D

@@ -4,7 +4,7 @@
 
 package utl
 
-import "github.com/cpmech/gosl/io"
+import "github.com/ATIinc/gosl-ati/io"
 
 // List implements a tabular list with variable number of columns
 //  Example:

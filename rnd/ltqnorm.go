@@ -7,7 +7,7 @@ package rnd
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/ATIinc/gosl-ati/chk"
 )
 
 /* Lower tail quantile for standard normal distribution function.

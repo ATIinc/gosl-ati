@@ -9,8 +9,8 @@ package rnd
 import (
 	"time"
 
-	"github.com/cpmech/gosl/rnd/dsfmt"
-	"github.com/cpmech/gosl/rnd/sfmt"
+	"github.com/ATIinc/gosl-ati/rnd/dsfmt"
+	"github.com/ATIinc/gosl-ati/rnd/sfmt"
 )
 
 // MTinit initializes random numbers generators (Mersenne Twister code)

@@ -1,6 +1,6 @@
 # Gosl. opt. Solvers for optimization problems
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/cpmech/gosl/opt.svg)](https://pkg.go.dev/github.com/cpmech/gosl/opt)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/opt.svg)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/opt)
 
 This package provides routines to solve optimization problems. The methods Conjugate Gradients
 `ConjGrad`, Powell's method `Powell` and Gradient Descent `GradDesc` can be used to solve
@@ -389,4 +389,4 @@ b(check) = [0.999999997028485 -2.0000000002234333 -2.499999995654444]
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/opt)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/opt)

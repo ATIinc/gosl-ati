@@ -12,8 +12,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/io"
 )
 
 // File represents a HDF5 file

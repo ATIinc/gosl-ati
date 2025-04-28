@@ -1,6 +1,6 @@
 # Gosl. hb. Read/Write hb (go-binary gob) files
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/cpmech/gosl/hb.svg)](https://pkg.go.dev/github.com/cpmech/gosl/hb)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/hb.svg)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/hb)
 
 This package is inspired by the Hierarchical Data File (HDF) format but uses go-binary (gob) _stream of gobs_ instead.
 
@@ -38,4 +38,4 @@ onef64 := g.GetFloat64("/data/onef64")
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/hb)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/hb)

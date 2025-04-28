@@ -7,7 +7,7 @@ package io
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
+	"github.com/ATIinc/gosl-ati/chk"
 )
 
 func Test_args01(tst *testing.T) {

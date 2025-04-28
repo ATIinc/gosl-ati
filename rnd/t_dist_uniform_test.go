@@ -7,8 +7,8 @@ package rnd
 import (
 	"testing"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/io"
 )
 
 func Test_dist_uniform_01(tst *testing.T) {

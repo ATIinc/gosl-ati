@@ -7,10 +7,10 @@ package opt
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/fun"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/utl"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/fun"
+	"github.com/ATIinc/gosl-ati/la"
+	"github.com/ATIinc/gosl-ati/utl"
 )
 
 // LineSearch finds the scalar 'a' that gives a substantial reduction of f({x}+a⋅{u})

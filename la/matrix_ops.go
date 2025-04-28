@@ -7,9 +7,9 @@ package la
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la/oblas"
-	"github.com/cpmech/gosl/utl"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/la/oblas"
+	"github.com/ATIinc/gosl-ati/utl"
 )
 
 // MatInvSmall computes the inverse of small matrices of size 1x1, 2x2, or 3x3.

@@ -1,6 +1,6 @@
 # Gosl. num/qpck. Wrapper to QUADPACK
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/cpmech/gosl/num/qpck)](https://pkg.go.dev/github.com/cpmech/gosl/num/qpck)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/num/qpck)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/num/qpck)
 
 This package wraps the QUADPACK package written in FORTRAN to compute definite one-dimensional
 integrals.
@@ -609,4 +609,4 @@ C***END PROLOGUE  QPDOC
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/num/qpck)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/num/qpck)

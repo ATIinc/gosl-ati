@@ -1,6 +1,6 @@
 # Gosl. fun. Special functions, DFT, FFT, Bessel, elliptical integrals, orthogonal polynomials, interpolators
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/cpmech/gosl/fun.svg)](https://pkg.go.dev/github.com/cpmech/gosl/fun)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/fun.svg)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/fun)
 
 This package implements _special_ functions such as orthogonal polynomials and elliptical functions
 of first, second and third kind.
@@ -10,4 +10,4 @@ ChebyInterp.
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/fun)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/fun)

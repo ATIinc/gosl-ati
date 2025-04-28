@@ -7,7 +7,7 @@ package fun
 import (
 	"math"
 
-	"github.com/cpmech/gosl/io"
+	"github.com/ATIinc/gosl-ati/io"
 )
 
 // Sinusoid implements the sinusoid equation:

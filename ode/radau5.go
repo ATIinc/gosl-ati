@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/num"
-	"github.com/cpmech/gosl/utl"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/la"
+	"github.com/ATIinc/gosl-ati/num"
+	"github.com/ATIinc/gosl-ati/utl"
 )
 
 // Radau5 implements the Radau5 implicit Runge-Kutta method

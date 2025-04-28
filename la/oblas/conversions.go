@@ -8,8 +8,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/io"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/io"
 )
 
 // SliceToColMajor converts nested slice into an array representing a col-major matrix

@@ -1,6 +1,6 @@
 # Gosl. pde. Partial Differential Equations
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/cpmech/gosl/pde.svg)](https://pkg.go.dev/github.com/cpmech/gosl/pde)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/pde.svg)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/pde)
 
 Package `pde` implements structures and algorithms for solving partial differential equations.
 
@@ -13,4 +13,4 @@ Package `pde` implements structures and algorithms for solving partial different
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/pde)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/pde)

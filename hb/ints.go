@@ -4,7 +4,7 @@
 
 package hb
 
-import "github.com/cpmech/gosl/chk"
+import "github.com/ATIinc/gosl-ati/chk"
 
 // PutInts puts a slice of integers into file
 //  Input:

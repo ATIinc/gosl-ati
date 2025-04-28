@@ -5,8 +5,8 @@
 package ode
 
 import (
-	"github.com/cpmech/gosl/la"
-	"github.com/cpmech/gosl/utl"
+	"github.com/ATIinc/gosl-ati/la"
+	"github.com/ATIinc/gosl-ati/utl"
 )
 
 // Output holds output data (prepared by Solver)

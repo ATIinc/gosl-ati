@@ -7,8 +7,8 @@ package fun
 import (
 	"math"
 
-	"github.com/cpmech/gosl/chk"
-	"github.com/cpmech/gosl/utl"
+	"github.com/ATIinc/gosl-ati/chk"
+	"github.com/ATIinc/gosl-ati/utl"
 )
 
 // Elliptic1 computes Legendre elliptic integral of the first kind F(φ,k),

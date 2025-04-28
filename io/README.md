@@ -1,6 +1,6 @@
 # Gosl. io. Input/output, read/write files, and print commands
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/cpmech/gosl/io.svg)](https://pkg.go.dev/github.com/cpmech/gosl/io)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/io.svg)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/io)
 
 This sub-package helps with reading and writing files, printing nice formatted messages (with
 colours), and parsing strings.
@@ -29,4 +29,4 @@ io.ReadLinesFile(f, func(idx int, line string) (stop bool) {
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/io)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/io)

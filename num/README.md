@@ -1,11 +1,11 @@
 # Gosl. num. Fundamental numerical methods
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/cpmech/gosl/num.svg)](https://pkg.go.dev/github.com/cpmech/gosl/num)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/num.svg)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/num)
 
 This package implements essential numerical methods such as for root finding, numerical quadrature,
 numerical differentiation, and solution of simple nonlinear problems.
 
-While the sub-package [num/qpck](https://github.com/cpmech/gosl/tree/master/num/qpck) provides
+While the sub-package [num/qpck](https://github.com/ATIinc/gosl-ati/tree/master/num/qpck) provides
 advanced quadrature schemes (by wrapping [Quadpack](http://www.netlib.org/quadpack/)), this package
 implements few (simpler) methods to compute numerical integrals. Here, there are two kinds of
 algorithms: (1) basic methods for discrete data; and (2) using refinement for integrating general
@@ -231,4 +231,4 @@ JfcnD := func(dfdx [][]float64, x []float64) error {
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/num)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/num)

@@ -1,6 +1,6 @@
 # Gosl. gm/tri. Mesh generation: triangles
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/cpmech/gosl/gm/tri)](https://pkg.go.dev/github.com/cpmech/gosl/gm/tri)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/ATIinc/gosl-ati/gm/tri)](https://pkg.go.dev/github.com/ATIinc/gosl-ati/gm/tri)
 
 The `tri` package has functions go generate meshes of triangular elements and Delaunay
 triangulations. The package is a light wrapper to the very efficient `Triangle` code by Jonathan
@@ -80,4 +80,4 @@ V, C := tri.Delaunay(X, Y, false)
 
 ## API
 
-[Please see the documentation here](https://pkg.go.dev/github.com/cpmech/gosl/gm/tri)
+[Please see the documentation here](https://pkg.go.dev/github.com/ATIinc/gosl-ati/gm/tri)
